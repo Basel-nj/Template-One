@@ -1,1 +1,1 @@
-alert("Hello git");
+alert("Welcome To My Template");
